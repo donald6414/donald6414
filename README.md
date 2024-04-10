@@ -60,7 +60,7 @@
 
 <br>
 
-##Workspace Spec
+## Workspace Spec
 ![General badge](https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white)
 ![General badge](https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white)
 ![General badge](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)
