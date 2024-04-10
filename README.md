@@ -3,7 +3,8 @@
 
 <br>
 
-- 👀 I’m interested in Laravel, Vue Js, Nuxt Js, Flutter and Bootstrap
+- 👀 I’m interested in Software as a service development (SAAS)
+- 👍 I’m solid and spend most of my time with Laravel, Vue Js, Nuxt Js, Vuetify, Flutter and Bootstrap
 - 💞️ I’m looking to collaborate on software as a service (SAAS) projects
 - 📫 How to reach me by email: dondonald971@gmail.com, website: www.donaldtz.com
 - 😄 Pronouns: He/Him
